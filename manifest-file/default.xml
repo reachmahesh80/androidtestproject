@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/reachmahesh80/androidtestproject" />
+  <default revision="master" remote="origin" />
+
+  <project path="main"
+           name="main" remote="origin" />
+
+  <project path="test"
+           name="test" remote="origin" />
+
+</manifest>
+
+
